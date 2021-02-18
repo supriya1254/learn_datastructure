@@ -1,14 +1,14 @@
 package array;
 
 public class DeleteElement {
-
-  public static void deleteFromEnd(int arr[]) {
+  private static int count = 5;
+  /*public static void deleteFromEnd(int arr[]) {
     if(arr.length<=0)
       return;
     count--;
-  }
+  }*/
 
-  public static void deleteSpecificValue(int arr[],int value) {
+  /*public static void deleteSpecificValue(int arr[],int value) {
 
     int i;
     for(i=0;i<count;i++)
@@ -28,6 +28,14 @@ public class DeleteElement {
         arr[j] = arr[j+1];
     }
     count--;
+  }*/
+
+  //delete element from position
+  public static void deleteFromPosition(int arr[],int position) {
+    for(int i=position;i<count-1;i++){
+      arr[i] = arr[i+1];
+    }
+    count--;
   }
 
   public static void print(int arr[]) {
@@ -37,14 +45,15 @@ public class DeleteElement {
     System.out.println();
   }
 
-  private static int count = 5;
+
 
   public static void main(String[] args) {
     int[] arr = {12,34,45,22,11};
  //   print(arr);
-   deleteFromEnd(arr);
+  // deleteFromEnd(arr);
  //  print(arr);
-   deleteSpecificValue(arr,45);
+ //  deleteSpecificValue(arr,45);
+    deleteFromPosition(arr,2);
    print(arr);
   }
 }
