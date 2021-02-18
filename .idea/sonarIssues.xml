@@ -3,12 +3,127 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.dummy">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-enterprise-order/dal-enterprise-order-svc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-enterprise-order/dal-enterprise-order-svc/src/main/java/com/vf/uk/dal/enterpriseorder/common/service/CatalogueService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-enterprise-order/dal-enterprise-order-svc/src/main/java/com/vf/uk/dal/enterpriseorder/common/service/CatalogueValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-enterprise-order/dal-enterprise-order-svc/src/test/java/com/vf/uk/dal/enterpriseorder/common/service/CatalogueServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-sip-order/dal-sip-order-svc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/dal-tmf-product-catalogue-svc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/dal-tmf-product-catalogue-svc/src/main/asciidoc/index.adoc">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/dal-tmf-product-catalogue-svc/src/main/java/com/vf/uk/dal/productcatalogue/service/CategoryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/dal-tmf-product-catalogue-svc/src/test/java/com/vf/uk/dal/productcatalogue/controller/CatalogApiControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/dal-tmf-product-catalogue-svc/src/test/java/com/vf/uk/dal/productcatalogue/controller/CategoryApiControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/dal-tmf-product-catalogue-svc/src/test/java/com/vf/uk/dal/productcatalogue/controller/ProductOfferingPriceApiControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/dal-tmf-product-catalogue-svc/src/test/java/com/vf/uk/dal/productcatalogue/service/CategoryServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/dal-tmf-product-catalogue-svc/src/test/resources/mock/catalog/catalog2.200.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/dal-tmf-product-catalogue-svc/src/test/resources/mock/category/category1.200.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/dal-tmf-product-catalogue-svc/src/test/resources/mock/category/category200.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Company/Vodafone_Project/workspace/dal-tmf-product-catalogue/tmf-620-api/target/generated-sources/swagger/tmfapi/src/main/java/uk/co/vodafone/tmfapi/model/Category.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Tree/FlattenBinaryTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/array/BlockRotation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/array/DeleteElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/array/FindFirstRepeatedWord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/array/InsertElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/array/RotationArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/array/RotationArrayWithReverseAlgo.java">
           <value>
             <set />
           </value>
